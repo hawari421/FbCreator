@@ -13,8 +13,8 @@ RESET = '\033[0m'
 
 print(f"""
 {GREEN}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
-> › Github :- @jatintiwari0 
-> › By      :- JATIN TIWARI
+> › Github :- @khanalex
+> › By      :- AL3X KHAN
 > › Proxy Support Added by @coopers-lab
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛{RESET}                """)
 print(GREEN + '\x1b[38;5;208m⇼'*60 + RESET)
